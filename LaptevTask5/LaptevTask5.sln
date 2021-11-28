@@ -2,6 +2,16 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptevTask5", "LaptevTask5\LaptevTask5.csproj", "{D07215A5-2998-4D0C-8CEE-288D6786FE6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesLib", "InterfacesLib\InterfacesLib.csproj", "{DF4705B7-860B-437B-9D84-1F61A6BFB6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonLib", "PersonLib\PersonLib.csproj", "{FC5178AD-AFA6-4893-B6E4-907145D2A143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLib", "StudentLib\StudentLib.csproj", "{A768C57B-0294-41AD-AC94-1652CD82FC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherLib", "TeacherLib\TeacherLib.csproj", "{6167D6B2-D812-4019-B38E-398DA3594C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E0FA7B42-9DC3-4B0D-9118-A891FFB8F2BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +22,25 @@ Global
 		{D07215A5-2998-4D0C-8CEE-288D6786FE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D07215A5-2998-4D0C-8CEE-288D6786FE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D07215A5-2998-4D0C-8CEE-288D6786FE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4705B7-860B-437B-9D84-1F61A6BFB6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4705B7-860B-437B-9D84-1F61A6BFB6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4705B7-860B-437B-9D84-1F61A6BFB6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4705B7-860B-437B-9D84-1F61A6BFB6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5178AD-AFA6-4893-B6E4-907145D2A143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5178AD-AFA6-4893-B6E4-907145D2A143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5178AD-AFA6-4893-B6E4-907145D2A143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5178AD-AFA6-4893-B6E4-907145D2A143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A768C57B-0294-41AD-AC94-1652CD82FC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A768C57B-0294-41AD-AC94-1652CD82FC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A768C57B-0294-41AD-AC94-1652CD82FC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A768C57B-0294-41AD-AC94-1652CD82FC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6167D6B2-D812-4019-B38E-398DA3594C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6167D6B2-D812-4019-B38E-398DA3594C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6167D6B2-D812-4019-B38E-398DA3594C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6167D6B2-D812-4019-B38E-398DA3594C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FA7B42-9DC3-4B0D-9118-A891FFB8F2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FA7B42-9DC3-4B0D-9118-A891FFB8F2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FA7B42-9DC3-4B0D-9118-A891FFB8F2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FA7B42-9DC3-4B0D-9118-A891FFB8F2BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

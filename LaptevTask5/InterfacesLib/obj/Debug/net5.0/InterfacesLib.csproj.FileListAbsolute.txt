@@ -1,0 +1,12 @@
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\bin\Debug\net5.0\InterfacesLib.deps.json
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\bin\Debug\net5.0\InterfacesLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\bin\Debug\net5.0\ref\InterfacesLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\bin\Debug\net5.0\InterfacesLib.pdb
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\obj\Debug\net5.0\InterfacesLib.csproj.AssemblyReference.cache
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\obj\Debug\net5.0\InterfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\obj\Debug\net5.0\InterfacesLib.AssemblyInfoInputs.cache
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\obj\Debug\net5.0\InterfacesLib.AssemblyInfo.cs
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\obj\Debug\net5.0\InterfacesLib.csproj.CoreCompileInputs.cache
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\obj\Debug\net5.0\InterfacesLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\obj\Debug\net5.0\ref\InterfacesLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\InterfacesLib\obj\Debug\net5.0\InterfacesLib.pdb

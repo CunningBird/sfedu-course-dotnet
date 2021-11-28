@@ -1,14 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\InterfacesLib\InterfacesLib.csproj" />
       <ProjectReference Include="..\PersonLib\PersonLib.csproj" />
       <ProjectReference Include="..\StudentLib\StudentLib.csproj" />
-      <ProjectReference Include="..\TeacherLib\TeacherLib.csproj" />
     </ItemGroup>
 
 </Project>

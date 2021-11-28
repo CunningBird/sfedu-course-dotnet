@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TeacherLib/1.0.0": {
+        "dependencies": {
+          "InterfacesLib": "1.0.0",
+          "PersonLib": "1.0.0",
+          "StudentLib": "1.0.0"
+        },
+        "runtime": {
+          "TeacherLib.dll": {}
+        }
+      },
+      "InterfacesLib/1.0.0": {
+        "runtime": {
+          "InterfacesLib.dll": {}
+        }
+      },
+      "PersonLib/1.0.0": {
+        "dependencies": {
+          "InterfacesLib": "1.0.0"
+        },
+        "runtime": {
+          "PersonLib.dll": {}
+        }
+      },
+      "StudentLib/1.0.0": {
+        "dependencies": {
+          "InterfacesLib": "1.0.0",
+          "PersonLib": "1.0.0"
+        },
+        "runtime": {
+          "StudentLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeacherLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfacesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

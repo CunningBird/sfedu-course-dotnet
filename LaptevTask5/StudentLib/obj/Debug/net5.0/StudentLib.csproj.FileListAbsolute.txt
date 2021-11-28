@@ -1,0 +1,17 @@
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\bin\Debug\net5.0\StudentLib.deps.json
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\bin\Debug\net5.0\StudentLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\bin\Debug\net5.0\ref\StudentLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\bin\Debug\net5.0\StudentLib.pdb
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\bin\Debug\net5.0\InterfacesLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\bin\Debug\net5.0\PersonLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\bin\Debug\net5.0\InterfacesLib.pdb
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\bin\Debug\net5.0\PersonLib.pdb
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\obj\Debug\net5.0\StudentLib.csproj.AssemblyReference.cache
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\obj\Debug\net5.0\StudentLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\obj\Debug\net5.0\StudentLib.AssemblyInfoInputs.cache
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\obj\Debug\net5.0\StudentLib.AssemblyInfo.cs
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\obj\Debug\net5.0\StudentLib.csproj.CoreCompileInputs.cache
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\obj\Debug\net5.0\StudentLib.csproj.CopyComplete
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\obj\Debug\net5.0\StudentLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\obj\Debug\net5.0\ref\StudentLib.dll
+C:\Users\CunningBird\OneDrive\University\7_sem\DVdotnet\LaptevTask5\StudentLib\obj\Debug\net5.0\StudentLib.pdb

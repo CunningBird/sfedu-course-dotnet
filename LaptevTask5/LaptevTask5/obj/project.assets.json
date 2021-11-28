@@ -1,0 +1,153 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "InterfacesLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/InterfacesLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InterfacesLib.dll": {}
+        }
+      },
+      "PersonLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "InterfacesLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonLib.dll": {}
+        }
+      },
+      "StudentLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "InterfacesLib": "1.0.0",
+          "PersonLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StudentLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentLib.dll": {}
+        }
+      },
+      "TeacherLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "InterfacesLib": "1.0.0",
+          "PersonLib": "1.0.0",
+          "StudentLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TeacherLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeacherLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfacesLib/1.0.0": {
+      "type": "project",
+      "path": "../InterfacesLib/InterfacesLib.csproj",
+      "msbuildProject": "../InterfacesLib/InterfacesLib.csproj"
+    },
+    "PersonLib/1.0.0": {
+      "type": "project",
+      "path": "../PersonLib/PersonLib.csproj",
+      "msbuildProject": "../PersonLib/PersonLib.csproj"
+    },
+    "StudentLib/1.0.0": {
+      "type": "project",
+      "path": "../StudentLib/StudentLib.csproj",
+      "msbuildProject": "../StudentLib/StudentLib.csproj"
+    },
+    "TeacherLib/1.0.0": {
+      "type": "project",
+      "path": "../TeacherLib/TeacherLib.csproj",
+      "msbuildProject": "../TeacherLib/TeacherLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "PersonLib >= 1.0.0",
+      "StudentLib >= 1.0.0",
+      "TeacherLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\CunningBird\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\CunningBird\\OneDrive\\University\\7_sem\\DVdotnet\\LaptevTask5\\LaptevTask5\\LaptevTask5.csproj",
+      "projectName": "LaptevTask5",
+      "projectPath": "C:\\Users\\CunningBird\\OneDrive\\University\\7_sem\\DVdotnet\\LaptevTask5\\LaptevTask5\\LaptevTask5.csproj",
+      "packagesPath": "C:\\Users\\CunningBird\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CunningBird\\OneDrive\\University\\7_sem\\DVdotnet\\LaptevTask5\\LaptevTask5\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\CunningBird\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\CunningBird\\OneDrive\\University\\7_sem\\DVdotnet\\LaptevTask5\\PersonLib\\PersonLib.csproj": {
+              "projectPath": "C:\\Users\\CunningBird\\OneDrive\\University\\7_sem\\DVdotnet\\LaptevTask5\\PersonLib\\PersonLib.csproj"
+            },
+            "C:\\Users\\CunningBird\\OneDrive\\University\\7_sem\\DVdotnet\\LaptevTask5\\StudentLib\\StudentLib.csproj": {
+              "projectPath": "C:\\Users\\CunningBird\\OneDrive\\University\\7_sem\\DVdotnet\\LaptevTask5\\StudentLib\\StudentLib.csproj"
+            },
+            "C:\\Users\\CunningBird\\OneDrive\\University\\7_sem\\DVdotnet\\LaptevTask5\\TeacherLib\\TeacherLib.csproj": {
+              "projectPath": "C:\\Users\\CunningBird\\OneDrive\\University\\7_sem\\DVdotnet\\LaptevTask5\\TeacherLib\\TeacherLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\CunningBird\\.dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
